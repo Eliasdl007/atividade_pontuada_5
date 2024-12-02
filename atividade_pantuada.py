@@ -40,7 +40,6 @@ def exibir_resultados(dados):
     print(f"Maior salário: R$ {maior_salario:.2f}")
     print(f"Menor salário: R$ {menor_salario:.2f}")
 
-# Código principal sem a função 'main'
 dados = ler_dados()
 
 while True:
@@ -103,7 +102,6 @@ def exibir_resultados(dados):
     print(f"Maior salário: R$ {maior_salario:.2f}")
     print(f"Menor salário: R$ {menor_salario:.2f}")
 
-# Código principal sem a função 'main'
 dados = ler_dados()
 
 while True:
